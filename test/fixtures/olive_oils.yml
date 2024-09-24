@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  olive_species: MyString
+  bottle_size: 1
+  vintage: 1
+  other_ingredients: MyString
+  about: MyText
+  image: MyString
+
+two:
+  olive_species: MyString
+  bottle_size: 1
+  vintage: 1
+  other_ingredients: MyString
+  about: MyText
+  image: MyString

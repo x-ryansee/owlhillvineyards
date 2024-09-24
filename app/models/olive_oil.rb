@@ -1,0 +1,2 @@
+class OliveOil < ApplicationRecord
+end
